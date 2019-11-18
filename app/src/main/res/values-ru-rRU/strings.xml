@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean Cleanup</string>
+    <string name="continue_game">Продолжить</string>
+    <string name="exit">Выход</string>
+    <string name="new_game">Новая игра</string>
+    <string name="settings">Настройки</string>
+    <string name="donate">Пожертвовать</string>
+    <string name="confirm_exit">Выход</string>
+    <string name="exit_confirmation_message">Вы действительно хотите выйти из игры?\\nКто же тогда очистит океан??</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="shop">магазин</string>
+    <string name="buy">купить</string>
+</resources>

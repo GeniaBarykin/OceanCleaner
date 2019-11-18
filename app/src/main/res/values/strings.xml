@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ocean Cleanup</string>
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="donate">Donate</string>
+    <string name="confirm_exit">Exit</string>
+    <string name="exit_confirmation_message">Are you sure you want to exit the game?\nWho will clean the ocean than?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="shop">Shop</string>
+    <string name="buy">Buy</string>
+</resources>
